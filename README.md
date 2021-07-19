@@ -1,4 +1,4 @@
-# Git Basic Practice
+# Git Basic Practice Practice
 
 This project is using for Git Basic command practice
 
